@@ -121,9 +121,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries, reach out to **Prateek Bhardwaj**:
 
-- Email: [prateekbh111@gmail.com](mailto:prateekbh111@gmail.com)
-- Portfolio: [prateekbh111-portfolio.vercel.app](https://prateekbh111-portfolio.vercel.app)
-- X: [@prateekbh111](https://x.com/prateekbh111)
+- Email: [adityayadav6661@gmail.com](mailto:adityayadav6661@gmail.com)
+- Portfolio: [imadityax.vercel.app](https://imadityax.vercel.app)
 
 ---
 
