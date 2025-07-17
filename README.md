@@ -119,10 +119,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For any queries, reach out to **Prateek Bhardwaj**:
+For any queries, reach out to **Harsh kumar jha**:
 
-- Email: [adityayadav6661@gmail.com](mailto:adityayadav6661@gmail.com)
-- Portfolio: [imadityax.vercel.app](https://imadityax.vercel.app)
+- Email: [harshkrjha567@gmail.com](mailto:harshkrjha567@gmail.com)
+
 
 ---
 
